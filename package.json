@@ -1,0 +1,15 @@
+{
+    "name": "04-to-do",
+    "version": "1.0.0",
+    "description": "Lista de tareas por hacer",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Paula CAmpos\u001b[D\u001b[D\u001b[D\u001b[a",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^14.2.0"
+    }
+}
